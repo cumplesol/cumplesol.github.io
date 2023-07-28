@@ -88,8 +88,9 @@ color: rgb(253, 253, 253);
  
     background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
     border-color: #69240C;
-  }
+ 
   #espero{
     text-align: center;
     color: #3f0335;
+    margin-bottom: 20px;
   }
