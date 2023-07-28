@@ -45,15 +45,15 @@ body {
     color: rgb(236, 223, 228);
   }
   #cronometro{
-   background-color: #030003;
-  color: #D4AF37 ;
+ background-color: #030003;
+  color: #ffe694 ;
   opacity: 90%;  
   text-align: center;
     margin: 0%;
     padding: 0%; 
     margin-bottom: 20px;
-    border: 2px;
-  border-color:#D4AF37 ;
+    border: 1px;
+  border-color:#550648 ;
   border-style:solid ;
   border-width: 3px 3px 3px;
   }
@@ -73,14 +73,14 @@ body {
   }
   #plata{
   background-color: #030003;
-  color: #D4AF37 ;
+  color: #ffe694 ;
   opacity: 90%;  
   text-align: center;
     margin: 0%;
     padding: 0%; 
     margin-bottom: 20px;
-    border: 2px;
-  border-color:#D4AF37 ;
+    border: 1px;
+  border-color:#550648 ;
   border-style:solid ;
   border-width: 3px 3px 3px;
   }
