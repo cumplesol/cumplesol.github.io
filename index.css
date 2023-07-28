@@ -92,7 +92,7 @@ color: rgb(253, 253, 253);
     border-color: #69240C;
  
   #espero{
-    text-align: center;
+    text-align: "center";
     color: #3f0335;
    
   }
