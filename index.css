@@ -1,0 +1,95 @@
+*{
+  font-family: 'Emilys Candy', cursive;
+font-family: 'Salsa', cursive;
+}
+
+body {
+ 
+  background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+  
+ }
+ 
+#poema{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border-radius: 25px;
+    margin:0% auto;
+    box-shadow:0 0 0 2px #730379;
+    margin-bottom: 20px;
+}
+#poema1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cuenta-regresiva {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  #tiempo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #tiempo > div {
+    margin-right: 2rem;
+  }
+  
+  #tiempo > div:last-child {
+    margin-right: 0;
+  }
+  #tiempos{
+    background-color:#700286;
+    color: rgb(236, 223, 228);
+  }
+  #cronometro{
+  background-color:#060107 ;
+  border: 2px;
+  border-color:#D4AF37 ;
+  opacity: 90%;
+text-align: center;
+color: rgb(253, 253, 253);
+  }
+  #direccion{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    margin:0% auto;
+    box-shadow:0 0 0 2px #3f0335;
+    margin-bottom: 20px;
+  }
+  #direccion2{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border:0%;
+    margin-bottom: 20px;
+  }
+  #plata{
+  background-color: #030003;
+  color: #fffdfe;
+  opacity: 90%;  
+  text-align: center;
+    margin: 0%;
+    padding: 0%; 
+    margin-bottom: 20px;
+    border: 2px;
+  border-color:#D4AF37 ;
+  }
+  .botonentrar{
+    
+  background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+    color: #69240C;
+    border-radius: 2%;
+    border: #69240C;
+    box-shadow:0 0 0 2px #69240C;
+  }
+  #bot{
+ 
+    background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+    border-color: #69240C;
+  }
+  #espero{
+    text-align: center;
+    color: #3f0335;
+  }
