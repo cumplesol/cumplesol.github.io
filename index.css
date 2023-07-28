@@ -83,9 +83,10 @@ color: rgb(253, 253, 253);
     border-radius: 2%;
     border: #69240C;
     box-shadow:0 0 0 2px #69240C;
+   
   }
   #bot{
- 
+ margin-bottom: 20px;
     background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
     border-color: #69240C;
  
