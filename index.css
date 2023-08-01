@@ -11,12 +11,13 @@ body {
  }
 
   #playButton {
-      position: fixed;
-      bottom: 60px;
-      right: 60px;
+    position:fixed;
+      bottom: 5px;
+      right: 86%;
       background-color: pink;
-      border-radius: 80%;
-     box-shadow:0 0 0 2px #69240C;
+      border-radius: 90%;
+      border: 1px;
+      box-shadow:0 0 0 2px #69240C;
     z-index: 9999;
     }
     
