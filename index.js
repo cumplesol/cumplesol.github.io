@@ -19,6 +19,17 @@
     horasEl.textContent = horas.toString().padStart(2, '0');
     minutosEl.textContent = minutos.toString().padStart(2, '0');
     segundosEl.textContent = segundos.toString().padStart(2, '0');
+
+    const playButton = document.getElementById("playButton");
+const audio = document.getElementById("audio");
+
+playButton.addEventListener("click", function() {
+  if (audio.paused) {
+    audio.play();
+  } else {
+    audio.pause();
+  }
+});
   }
   
   actualizarCuentaRegresiva();
