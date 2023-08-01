@@ -12,13 +12,12 @@ body {
 
   #playButton {
       position: fixed;
-      bottom: 50px;
-      right: 50px;
+      bottom: 60px;
+      right: 60px;
       background-color: pink;
-      border-radius: 60%;
-      border: 1px;
-    
+      border-radius: 80%;
      box-shadow:0 0 0 2px #69240C;
+    z-index: 9999;
     }
     
     #playButton img {
