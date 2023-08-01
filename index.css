@@ -114,3 +114,15 @@ body {
     color: #3f0335;
    
   }
+    #final{
+    background-image:url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    color: #380544 ;
+    opacity: 90%;  
+    text-align: center;
+      margin: 0%;
+      padding: 0%; 
+      margin-bottom: 20px;
+      border: 2px;
+    border-color:#5b0663 ;
+    border-style:solid ;
+    border-width: 3px 3px 3px;}
