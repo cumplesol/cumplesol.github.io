@@ -17,8 +17,8 @@ body {
       background-color: pink;
       border-radius: 40%;
       border: 1px;
-    border-color: black;
     
+     box-shadow:0 0 0 2px #69240C;
     }
     
     #playButton img {
