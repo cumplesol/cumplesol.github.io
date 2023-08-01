@@ -10,6 +10,21 @@ body {
   overflow-y: scroll;
  }
 
+  #playButton {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      background-color: white;
+      border-radius: 50%;
+      border: none;
+    
+    }
+    
+    #playButton img {
+      width: 40px;
+    
+    }
+
  .floating-icon {
   position: fixed;
   bottom: 20px;
@@ -128,17 +143,4 @@ body {
     border-style:solid ;
     border-width: 3px 3px 3px;
 }
-    #playButton {
-      position: fixed;
-      bottom: 30px;
-      right: 30px;
-      background-color: white;
-      border-radius: 50%;
-      border: none;
-    
-    }
-    
-    #playButton img {
-      width: 40px;
-    
-    }
+  
