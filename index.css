@@ -10,21 +10,39 @@ body {
   overflow-y: scroll;
  }
 
-  #playButton {
-    position:fixed;
-      bottom: 5px;
+#playButton {
+      position:fixed;
+      border: 50%;
       right: 86%;
-      background-color: pink;
-      border-radius: 90%;
-      border: 1px;
+      top: 20%;
+      background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+     border-radius: 100%;
+      border: 50%;
       box-shadow:0 0 0 2px #69240C;
-    z-index: 9999;
+      color:rgb(78, 14, 25);
+      inline-size: 999999;
+    
     }
     
     #playButton img {
-      width: 40px;
-    
-    }
+      width: 10px;}
+
+      #playButton1 {
+        position:fixed;
+        border-radius:100% ;
+        border: 50%;
+        right: 75%;
+        top: 20%;
+        background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+        border: 50%;
+        box-shadow:0 0 0 2px #69240C;
+        color:rgb(39, 17, 21);
+        inline-size: 999999;
+      
+      }
+      
+      #playButton1 img {
+        width: 10px;}
 
  .floating-icon {
   position: fixed;
